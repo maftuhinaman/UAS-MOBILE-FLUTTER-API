@@ -5,9 +5,9 @@ A new Flutter project.
 ## Getting Started
 
 ---
-Nama    :Rizal Pringgandani
-NIM     :312110151
-Kelas   :TI.21.A2
+Nama    :Maftuhin Amanulloh <br>
+NIM     :312110610 <br>
+Kelas   :TI.21.A3
 ---
 
 ### Tampilan Halaman list quote
